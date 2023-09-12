@@ -9,7 +9,6 @@
     ></b-slider> -->
     <div class="columns is-centered">
       <div class="column is-half">
-        <h1 class="h3">Shifts</h1>
         <div v-if="shifts.length === 0">
           <p>No shifts available.</p>
         </div>
